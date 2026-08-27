@@ -5,6 +5,8 @@
 > # School of Medical Laboratory
 
 
+- [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science#courses)
+
 ### Biology : 
   
   - [Independent vs. Dependent Variable](https://www.youtube.com/watch?v=nqj0rJEf3Ew)
