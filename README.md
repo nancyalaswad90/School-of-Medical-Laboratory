@@ -7,6 +7,8 @@
 
 - [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science#courses)
 
+- second update 
+
 ### Biology : 
   
   - [Independent vs. Dependent Variable](https://www.youtube.com/watch?v=nqj0rJEf3Ew)
