@@ -2,7 +2,8 @@
 
 .
 
-> # School of Medical Laboratory
+> # School of Medical Laboratory and Bio Informatic
+
 
 
 - [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science#courses)
