@@ -20,3 +20,7 @@
 
       - [Researcher's Guide to RNA Sequencing Data by Fred Hutchinson Cancer Center](https://www.coursera.org/programs/tech-career-advancement-for-mena-palestine-9kd85/learn/researchers-guide-to-rna-sequencing-data) : This course offers an overview of RNA data processing and interpretation, including resources for RNA-seq analysis.
       - [Researcher's guide to omic fundamentals 2026 uploaded ](https://www.coursera.org/learn/researchers-guide-to-omic-fundamentals/home/module/1)
+
+
+
+[Post hashtags](https://www.linkedin.com/posts/saber-mostafa_operationsmile-clinicalcoordination-medicalvolunteer-activity-7303096523561566209-4H9-?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag&utm_campaign=copy_link)
