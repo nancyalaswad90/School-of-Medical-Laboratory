@@ -6,7 +6,7 @@
 
 
 
-- [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science#courses)
+- [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science#courses)  .. still one practice course to gain certifications 
 
 - second update 
 
