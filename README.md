@@ -9,6 +9,7 @@
 
 - [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science#courses)  .. still one practice course to gain certifications 
 
+- [Bio-Chemistry](https://youtu.be/NQs2JeVOoPU?si=UJT0w52KnfZLoYxq)
 - second update 
 
 ### Biology : 
